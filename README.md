@@ -4,7 +4,7 @@ This task manager saves your task and reminds you about it in time! You always m
 used framewoeks and modules: telebot, datetime, os, sqlite3
 Global variables: 
 1) tasks: list of dictionaries - saves each task as a dict: {'name': 'title', 'time': class datetime}
-2) CONST: dict - saves chat id, user id to use it in any function
+2) MESSG: dict - saves chat id, user id to use it in any function
 3) TOKEN: string - unique bot's token for telegram api
 
 Classes:
